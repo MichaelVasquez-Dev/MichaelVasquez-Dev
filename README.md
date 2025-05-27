@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre o Alias]
 
-<!--
-**MichaelVasquez-Dev/MichaelVasquez-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Fullstack Web Developer | Técnico en Sistemas | +3 años de experiencia
 
-Here are some ideas to get you started:
+Soy desarrollador web con experiencia en el desarrollo fullstack, desde la interfaz de usuario hasta la lógica del servidor y la gestión de bases de datos. Inicié mi carrera profesional en agosto de 2022 y desde entonces he trabajado construyendo soluciones robustas, escalables y enfocadas en la experiencia del usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### Frontend
+- **HTML5, CSS3, JavaScript (ES6+)**
+- **Frameworks/Librerías:** Angular (RxJS), React (con y sin Redux), Next.js
+- **Extras:** AJAX, jQuery, consumo de APIs REST
+
+### Backend
+- **Node.js (Express, NestJS)**
+- **Sockets, Web Servers, Middleware personalizados**
+- **Creación y consumo de APIs REST**
+
+### Bases de Datos
+- **MongoDB** (con Mongoose)
+- **MySQL, PostgreSQL** (con Sequelize y Prisma)
+
+### Cloud & DevOps
+- **AWS (Amazon Web Services)**
+  - Lambda (usando Serverless Framework)
+  - SNS (envío de SMS)
+  - S3 (almacenamiento de imágenes, despliegue de frontend)
+- **Despliegues con GitHub y automatizaciones simples**
+
+---
+
+## 🎓 Formación
+
+- 📚 Técnico en Sistemas
+- 🎓 Actualmente en proceso de Ingeniería en Sistemas
+
+---
+
+## 💡 Sobre mí
+
+- Me apasiona el desarrollo web, los desafíos técnicos y la mejora continua.
+- Disfruto creando soluciones eficientes, limpias y mantenibles.
+- Siempre estoy buscando nuevas tecnologías para aprender y aplicar en mis proyectos.
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+- GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
+- *(Opcional)* LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- *(Opcional)* Portafolio: [tusitio.dev](https://tusitio.dev)
+
+---
+
+¡Gracias por visitar mi perfil! 😊
