@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre o Alias]
+# 👋 ¡Hola! Soy Michael Alexis Vasquez Lopera
 
 ### 👨‍💻 Fullstack Web Developer | Técnico en Sistemas | +3 años de experiencia
 
@@ -48,10 +48,7 @@ Soy desarrollador web con experiencia en el desarrollo fullstack, desde la inter
 
 ## 📫 ¿Cómo contactarme?
 
-- GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
-- *(Opcional)* LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-- *(Opcional)* Portafolio: [tusitio.dev](https://tusitio.dev)
+- LinkedIn: https://www.linkedin.com/in/michael-alexis-vasquez-lopera/
+- Whatsapp: https://wa.me/qr/57LL67UKUTDIG1
 
 ---
-
-¡Gracias por visitar mi perfil! 😊
