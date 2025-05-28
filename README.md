@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=bd93f9&size=22&center=true&vCenter=true&width=900&height=80&lines=for(let+coffee+of+dailyDose)+%7B+code()+debug()+repeat()+%7D+;if+(bug)+%7B+panic()+then+fix()+%7D+else+%7B+commit+code()+%7D;while+(not+a+coffee)+%7B+keep+coding()+%7D;const+me+=+%7B+skills:+[...allSkills],+mood:+'always+learning'+%7D;+console.log('For+the+best+devs')">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&size=22&center=true&vCenter=true&width=900&height=80&lines=if+(coffee)+%7B+code+like+a+hero()+%7D+else+%7B+nap+like+a+bug()+%7D;try+%7B+fix+bugs()+%7D+catch+(life)+%7B+debug+my+mind()+%7D;while+(not+deploy)+%7B+add+more+features()+test+again();+%7D+;const+dev+=+%7B+coffee:+'infinite',+bugsFixed:+'inprogress';+console.log('Keep+calm+and+code+on')">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&size=22&center=true&vCenter=true&width=900&height=80&lines=if+(coffee)+%7B+code+like+a+hero()+%7D+else+%7B+nap+like+a+bug()+%7D;try+%7B+fix+bugs()+%7D+catch+(life)+%7B+debug+my+mind()+%7D;while+(not+deploy)+%7B+add+more+features()+test+again()+%7D+;const+dev+=+%7B+coffee:+'infinite',+bugsFixed:+'inprogress';+console.log('Keep+calm+and+code+on')">
 </p>
 
 
